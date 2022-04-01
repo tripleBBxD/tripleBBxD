@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tripleBB
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
 - 📫 Reach me on Discord: tripleBB#9757
 
 <!---
