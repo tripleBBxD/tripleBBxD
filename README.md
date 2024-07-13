@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tripleBB
-- 👀 I’m interested in Coding
-- 📫 Reach me on Discord: tripleBB#9757
+- 👀 I like learning stuff
+- 📫 Reach me on Discord: tripleBB
 
 <!---
 tripleBBxD/tripleBBxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
